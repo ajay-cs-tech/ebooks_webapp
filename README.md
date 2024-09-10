@@ -45,6 +45,24 @@ After installation, users can:
 3. Select a book to read
 4. Access and read the PDF directly in the browser
 
+## Demo
+
+### Landing Page
+![Landing Page](https://example.com/path-to-image-1.jpg)
+*Landing page with options to create an account or sign in*
+
+### Sign In Page
+![Sign In Page](https://example.com/path-to-image-2.jpg)
+*Sign in page for existing users*
+
+### Create Account Page
+![Create Account Page](https://example.com/path-to-image-3.jpg)
+*Page for new users to create an account*
+
+### Library View
+![Library View](https://example.com/path-to-image-4.jpg)
+*User's library showing trending books and navigation options*
+
 ## Contributing
 We welcome contributions to improve the ebooks platform! If you'd like to contribute:
 
