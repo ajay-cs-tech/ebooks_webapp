@@ -13,7 +13,7 @@ This ebooks platform is designed to provide a user experience similar to Amazon 
 ## Technologies Used
 - MongoDB
 - Express.js
-- Next.ja
+- Next.js
 - Node.js
 - MongoDB Atlas (for database hosting)
 - Postman (for API testing and development)
